@@ -37,6 +37,7 @@ body {
     position: absolute;
     top: 516px;
     height: 598px;
+    background: -moz-linear-gradient(bottom, #33253a, #745083);
     background: linear-gradient(to bottom, #745082, #33263a);
     border-top: 1px solid #2c2c2c;
 }
@@ -98,6 +99,7 @@ menu {
     height: 42px;
     text-align: center;
     line-height: 2.2;
+    background: rgba(61, 48, 69, 0);
 }
 .menu__item:nth-child(2) {
     display: none;
